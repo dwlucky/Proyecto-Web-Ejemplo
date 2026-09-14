@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-body {
-    background-color: white;
-=======
 /* Estilo general */
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -10,7 +6,6 @@ body {
     color: #333;
     margin: 0;
     padding: 20px;
->>>>>>> 08c6b88f44529ffc9fca9719f878d6609172d8e5
 }
 
 /* Título principal */
