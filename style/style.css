@@ -1,4 +1,6 @@
-body {}
+body {
+    background-color: white;
+}
 
 .titulo {
     font-family: Arial, sans-serif;
